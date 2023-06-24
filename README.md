@@ -11,7 +11,7 @@
 
 <h2>💻 GitHub Profile Stats</h2>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Alroy05&show_icons=true&locale=en&theme=gotham" alt="Alroy05" height="192px"/>
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alroy05&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Alroy05" height="192px"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alroy05&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Alroy05" height="192px"/>
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 <p align="center">
