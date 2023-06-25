@@ -7,7 +7,6 @@
 ## 🔥 My Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alroy05&theme=gotham" alt="Alroy05" /></p>
 
-<hr>
 
 <h2>💻 GitHub Profile Stats</h2>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Alroy05&show_icons=true&locale=en&theme=gotham" alt="Alroy05" height="192px"/>
