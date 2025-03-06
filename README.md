@@ -4,9 +4,6 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Alroy05&label=Alroy's%20Profile%20Views%20&color=dc143c&style=plastic" alt="Alroy05" /> </p>
 
-## 🔥 My Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alroy05&theme=gotham" alt="Alroy05" /></p>
-
 <h2>💻 GitHub Profile Stats</h2>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Alroy05&show_icons=true&locale=en&theme=gotham" alt="Alroy05" height="192px"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alroy05&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Alroy05" height="192px"/>
@@ -55,7 +52,7 @@
 ## Connect with me
 
 <p align="center">
-  <a href="https://alroy05.github.io/alroypereira/"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/domain.png" alt="domain"/></a>
+  <a href="https://alroypereira.vercel.app/"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/domain.png" alt="domain"/></a>
   <a href="mailto:alroypereira05@gmail.com"><img width="55" height="55" src="https://img.icons8.com/arcade/64/gmail.png" alt="gmail"/></a>
   <a href="https://github.com/Alroy05"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/alroy-pereira-2b3631248/"><img height="50" width="50" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/></a>
